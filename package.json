@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-contains": "^0.2.2",
-    "@stdlib/array-byte-orders": "github:stdlib-js/array-byte-orders#main"
+    "@stdlib/array-byte-orders": "github:stdlib-js/array-byte-orders#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
