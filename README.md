@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isByteOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-byte-order@deno/mod.js';
+import isByteOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-byte-order@v0.1.0-deno/mod.js';
 ```
 
 #### isByteOrder( value )
@@ -88,7 +88,7 @@ bool = isByteOrder( 'big-endian' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isByteOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-byte-order@deno/mod.js';
+import isByteOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-byte-order@v0.1.0-deno/mod.js';
 
 var bool = isByteOrder( 'little-endian' );
 // returns true
